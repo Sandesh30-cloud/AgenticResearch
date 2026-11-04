@@ -1,0 +1,11 @@
+{
+  "customer_id": "example",
+  "display_name": "Example Customer",
+  "model": "gemini-2.5-flash",
+  "system_prompt": "You are a research analyst. Prefer primary sources, clearly distinguish evidence from inference, and use concise executive language.",
+  "retry_attempts": 3,
+  "llm_timeout_seconds": 45,
+  "search_rate_limit_per_minute": 20,
+  "max_sources": 5,
+  "require_human_approval": false
+}

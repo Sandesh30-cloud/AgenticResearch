@@ -3,8 +3,9 @@ langchain>=0.2.0
 langchain-core>=0.2.0
 langchain-community>=0.2.0
 langchain-openai>=0.1.0
+langchain-google-genai>=2.0.0
 
-# OpenAI
+# OpenAI (optional if using Gemini)
 openai>=1.30.0
 
 # Tavily Search Tool
